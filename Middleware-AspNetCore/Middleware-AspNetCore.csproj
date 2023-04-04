@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
@@ -6,9 +6,5 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Middleware_AspNetCore</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Middlewares\" />
-  </ItemGroup>
 
 </Project>
