@@ -7,4 +7,8 @@
     <RootNamespace>Middleware_AspNetCore</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Middlewares\" />
+  </ItemGroup>
+
 </Project>
